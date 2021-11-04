@@ -1,0 +1,243 @@
+
+Connessioni rimaste: 9
+Esecuzione del comando seguente: EXEC 1 sleep 20
+
+Connessioni rimaste: 8
+Esecuzione del comando seguente: EXEC 1 sleep 20
+Terminazione comando con codice: 0
+Terminazione del client con indirizzo ip 192.168.1.8	porta 51210
+
+
+Connessioni rimaste: 7
+Esecuzione del comando seguente: EXEC 1 sleep 20
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 1
+FD: 6
+
+Attendo la terminazione del thread con id: 140653068879616
+Terminazione comando con codice: 0
+Terminazione del client con indirizzo ip 192.168.1.8	porta 51212
+
+Terminazione comando con codice: 0
+Terminazione del client con indirizzo ip 192.168.1.8	porta 51214
+
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140653060486912
+Riavvio il server con i parametri presenti nel file config
+
+Connessioni rimaste: 6
+Esecuzione del comando seguente: EXEC 1 sleep 20
+
+Connessioni rimaste: 5
+Esecuzione del comando seguente: EXEC 1 sleep 20
+Terminazione comando con codice: 0
+Terminazione del client con indirizzo ip 192.168.1.8	porta 49108
+
+
+Connessioni rimaste: 4
+Esecuzione del comando seguente: DOWNLOAD clientot;32032
+Terminazione del client con indirizzo ip 192.168.1.8	porta 49114
+
+Terminazione comando con codice: 0
+Terminazione del client con indirizzo ip 192.168.1.8	porta 49110
+
+
+Connessioni rimaste: 3
+Esecuzione del comando seguente: SIZE server
+Esecuzione del comando seguente: UPLOAD server,42760
+Terminazione del client con indirizzo ip 192.168.1.8	porta 49116
+
+[ACCEPT ERROR] Interrupted system call (forse in seguito alla ricezione di un segnale), riavvio il server!
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140653060486912
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140653068879616
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140653052094208
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140653043701504
+Riavvio il server con i parametri presenti nel file config
+[ACCEPT ERROR] Interrupted system call (forse in seguito alla ricezione di un segnale), riavvio il server!
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140653043701504
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140653052094208
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140653068879616
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140653060486912
+Riavvio il server con i parametri presenti nel file config
+
+Connessioni rimaste: 2
+Esecuzione del comando seguente: EXEC 1 sleep 20
+
+Connessioni rimaste: 1
+[USER ERROR]: Autenticazione fallita, aborto la comunicazione
+Terminazione del client con indirizzo ip 192.168.1.8	porta 44066
+
+Terminazione comando con codice: 0
+Terminazione del client con indirizzo ip 192.168.1.8	porta 44064
+
+
+Connessioni rimaste: 0
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 1
+FD: 9
+
+Attendo la terminazione del thread con id: 140653060486912
+Esecuzione del comando seguente: DOWNLOAD clientnew;32032
+Terminazione del client con indirizzo ip 192.168.1.8	porta 44068
+
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140653068879616
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140653052094208
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140653043701504
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140653035308800
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140653026916096
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140653018523392
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140653010130688
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140652931184384
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140652922791680
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140652914398976
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140652906006272
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140652897613568
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140652889220864
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140652880828160
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140652796966656
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140652788573952
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140652780181248
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140652771788544
+
+STATO DEL THREAD CHE VADO A TERMINARE:
+STATO: 0
+FD: -1
+
+Attendo la terminazione del thread con id: 140652763395840
+Daemon terminato correttamente
